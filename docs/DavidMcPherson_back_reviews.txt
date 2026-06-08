@@ -1,0 +1,15 @@
+Professor: David McPherson
+Department: Computer Science
+School: Virginia Tech
+Source: Rate My Professors
+
+Reviews:
+-Dr. McPherson is chill and mostly nice. The content is interesting, but he doesnt help prepare students for the tests, specifically the final. I suggest taking the other professor (Senger). The homework and projects aren't too bad. However, near the end of the semester, they will cram a lot of projects in.
+
+-McPherson is a great guy. Very accessible and helpful, doesn't have the attitude that other CS professors have when you interact with them. It is a difficult course because some of the projects introduce a very high level of complexity to topics not covered much in class. Exams are not too bad though.
+
+-I wish I could rate higher - funny professor and great office hours. However, ultimately I do not feel like Professor McPherson went into the depth required to succeed on the exams. The homeworks and the projects are not bad at all, however the exams (especially the final) are very difficult, especially if you have no prior course knowledge.
+
+-By far one of the best professors I have ever had. He was very willing to work with me when I was struggling to get some assignments done on time or had technical issues. He does get passive-aggressive about people skipping his class, but he is a nice professor, and I would 10/10 recommend him to anyone.
+
+-Professor McPherson is a great lecturer who makes the class interesting and worth going to. The class is an insane amount of work for an intro class, as there is usually a reading and lab every week, as well as a quiz and program about every week and a half. If you have any sort of background with Java, this class is very straightforward.

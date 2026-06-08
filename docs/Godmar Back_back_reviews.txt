@@ -1,0 +1,15 @@
+Professor: Godmar Back
+Department: Computer Science
+School: Virginia Tech
+Source: Rate My Professors
+
+Reviews:
+-Systems is an incredibly hard class--prepare for 20+ hours of coding/studying per week if you want an A. However, Prof Back does a great job teaching the class in a manner which makes you (1) learn the material well and (2) learn to vibecode well. The 20+ hours weekly was hard, but I was learning every second and would do it again.
+
+-This professor is just horrible at lecturing. He reads off of power point slides and even when he is doing something active, he is flying through a linux terminal typing at 100 wpm and you can barely follow along. You basically just have to sit there and stare at what he's doing but you can't learn well "absorbing" information with you eyes.
+
+-Dr.Back is one of the smartest professors I have seen at VT. He is super active on the class website and help channel. He is not paid to help us after class hours, but I can see he wants us to learn and understand the material of the system, which I believe is super useful. As a student, I have gained a lot of knowledge by taking this class.
+
+-Super knowledgeable and engaging lecturer. Has the same general sarcastic/sassy CS professor attitude which can come off as condescending for some. Super active in class forums and discord. Has a bit of an accent but you'll get used to it pretty quickly. Class is very front loaded workload wise so lock in early and make sure to utilize the TAs!
+
+-This professor is a little bit smarter than the other professors in the CS department but unfortunately his personality is horrible. He's ego is through the roof and he hates looking at other views. He is the reason this class is so impractical.

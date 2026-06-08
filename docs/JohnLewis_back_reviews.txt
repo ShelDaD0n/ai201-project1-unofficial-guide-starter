@@ -1,0 +1,15 @@
+Professor: John Lewis 
+Department: Computer Science
+School: Virginia Tech
+Source: Rate My Professors
+
+Reviews:
+-If you need to take CS1064, then John Lewis is your guy. Amazing professor, gave everyone 100s on the final quiz because of a snow day. Class is honestly not super difficult, spend time outside of class (roughly 1-3 hours) to try and understand the content and you should be good to go. Lectures are long but he goes over everything you need to know.
+
+-Dr. Lewis made my Python learning career as enjoyable as possible. I liked the class, and he always kept it entertaining, even at 4:15 pm. He is a great guy who always warns about deadlines and offers numerous opportunities for office hours. Although the readings can get monotonous, it's practically vital to read them to understand the material.
+
+-Oh boy where do I even start. John "GOAT" Lewis may be the BEST professor at Virginia Tech. If you need a CS elective TAKE CS 1064 without a doubt. Now I'm ngl, I already knew how to program a little bit in Python, but regardless I know plenty of people who came in with no coding experience and did just as well as me. Lots of extra credit. Thanks
+
+-Professor Lewis was a great professor. I took his Python Programming class and as long as you do the homework and the reading and have a general idea of what is going on you'll be fine. He is very good at explaining how the programming that you focus on that week works and gives lots of examples in class and shows you how to do it.
+
+-Even though lectures aren't mandatory, he goes through the information slowly and makes it much more understandable. There are 3 big projects per semester and 4 major quizzes, but all the work is manageable. He is a very caring professor and gave everyone a 100 on the last quiz because it was a snow day instead of rescheduling it.

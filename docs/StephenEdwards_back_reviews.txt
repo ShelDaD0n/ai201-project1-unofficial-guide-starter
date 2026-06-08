@@ -1,0 +1,15 @@
+Professor: Stephen Edwards
+Department: Computer Science
+School: Virginia Tech
+Source: Rate My Professors
+
+Reviews:
+-Moved way too fast for an introductory course. In class, he would go over something simple pertaining to that weeks lab or program, and then the program would comparatively ask you to cure cancer. Looking back, I would try to take this class online as the lack of effort from the professor dumped the teaching onto the TA's.
+
+-CS1114 is the textbook weed out class: tough homework, insane grading scale, and no support whatsoever from the professor because he's burning through programming lessons at lightspeed. If you don't know Java, this class is gonna suck for a first-semester course. If you do know Java, the automated homework grader is going to make you regret it.
+
+-Although it is nice that you can submit as many times as you want before the deadline, edwards is a terrible professor. If it wasnt for the TAs and just teaching myself I wouldnt have learned anything. He often answers questions by saying simply that somethings wrong with the code, he never answered any of my emails when the TAs couldnt help me.
+
+-Stephen Edwards is the most condescending professor I have ever had. He teaches only to the students who know how to program, despite the fact that it is an INTRO CLASS, and just like the kids who do know how to program, he teaches the new programmers as if they're stupid. His lectures are always behind what we're doing in labs or programs.
+
+-The class is very informative and Edwards is incredibly knowledgeable, but the information is presented poorly. This course caused me to feel like my questions do not deserve answers and it is my fault for not being a master programmer right away. His tone is often condescending when speaking and does not seem to care about his students' confusion.

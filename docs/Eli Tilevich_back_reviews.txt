@@ -1,0 +1,15 @@
+Professor: Eli Tilevich
+Department: Computer Science
+School: Virginia Tech
+Source: Rate My Professors
+
+Reviews:
+-The professor was supportive, motivating, and humorously engaging. Each lecture was well-prepared, addressing LeetCode problems and diverse programming languages. The open-choice research project instead of a final exam allowed for pursuing personal interests.
+
+-Professor Tilevich is an exceptional instructor in programming theory. His profound knowledge and engaging teaching style make complex concepts remarkably clear. He fostered a dynamic learning environment with multiple relevant LeetCode problems which helped for guidance on the homework and projects and he provided invaluable insights.
+
+-The professor tried to make the class engaging, but for the most part the professor's teaching style might have been a bit unclear at times. He seemed to prefer regular attendance at lectures, although it wasn't mandatory. The absence of a structured TA schedule made it difficult for students to seek timely help on assignments.
+
+-Amazing as a professor, course content is kind of tough but the class in general was pretty interesting - he would teach a concept then have us do a LeetCode problem as an example. He also has a 1k+ streak on LeetCode if you're into that sort of thing.
+
+-Great lecturer with a broad research interest. Gave thoughtful feedback for our capstone project. Took his class around 2017.
